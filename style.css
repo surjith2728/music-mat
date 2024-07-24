@@ -1,0 +1,284 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+nav {
+  /* background-color: rgb(78, 78, 255);
+  border: 2px solid grey; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 40%;
+  list-style-type: none;
+  color:black;
+}
+nav ul li:hover {
+  color: rgb(2, 2, 114);
+  text-decoration: underline;
+}
+button {
+  background-color: rgb(8, 6, 0);
+  color: whitesmoke;
+  padding: 15px;
+  border-radius: 14px;
+}
+button:hover {
+  color:black;
+}
+
+.sec-1
+{
+background-color: rgb(255, 255, 255);
+/* box-shadow:13px 10px 62px -1px rgba(255,77,0,0.75);; */
+width:95%;
+margin-left: 40px;
+margin-top: 120px;
+}
+.sec-1 h1{
+font-size: 100px;
+}
+.subsec-1,.subsec-2,.subsec-3,.subsec-4
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subsec-1 ul li,.subsec-2 ul li,.subsec-3 ul li,.subsec-4 ul li
+{
+  list-style-type: none;
+}
+.main-sec
+{
+  display: flex;
+  justify-content:space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+}
